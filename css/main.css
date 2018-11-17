@@ -1,0 +1,23 @@
+select, input {
+	padding: 10px;
+}
+#rating-list > div {
+	border: 1px dashed white;
+}
+
+#static-list > div {
+	border: 1px dashed white;
+}
+
+img {
+	height: 300px;
+	width: 60%;
+	display: block;
+	opacity: .8;
+
+}
+
+body {
+	font-family: 'Averia Libre';
+}
+
